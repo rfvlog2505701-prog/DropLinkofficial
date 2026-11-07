@@ -1,0 +1,13 @@
+{
+  "name": "droplink-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel deploy --prod"
+  },
+  "dependencies": {
+    "@vercel/config": "0.14.1"
+  }
+}
